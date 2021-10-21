@@ -1,0 +1,56 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/MainMenu.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/L1S1.unity
+    guid: c809d6a4c3aaaa54caaec9370bbd6db4
+  - enabled: 1
+    path: Assets/Scenes/L1S2.unity
+    guid: 33cd6df27d97f274a85ce8ab2a500713
+  - enabled: 1
+    path: Assets/Scenes/FearChoice.unity
+    guid: ae1a03d8030c12645a00ec63b09c2437
+  - enabled: 1
+    path: Assets/Scenes/L2S1Spider.unity
+    guid: d0bbcf73f3dd04647a950cbf695ff2ad
+  - enabled: 1
+    path: Assets/Scenes/L2S2Spider.unity
+    guid: a4800ac20cd1a304fa2fb96bf8a6d9f0
+  - enabled: 1
+    path: Assets/Scenes/L2S1Darkness.unity
+    guid: 70b44bc407bca5745bd3d948ff99f432
+  - enabled: 1
+    path: Assets/Scenes/L2S2Darkness.unity
+    guid: ab08d3728c4744f4081ac4ae9e9c0634
+  - enabled: 1
+    path: Assets/Scenes/L2S1Clown.unity
+    guid: 0bd9f23df524ed14eb565583f2b55155
+  - enabled: 1
+    path: Assets/Scenes/L2S2Clown.unity
+    guid: 55f7dbaa3281ae94389968e12a0d6ef1
+  - enabled: 1
+    path: Assets/Scenes/L3S1.unity
+    guid: 1c8c643aa5b397b458041aafea2ed642
+  - enabled: 1
+    path: Assets/Scenes/L3S2.unity
+    guid: f3533e67e47383344ba6242565a0c2e5
+  - enabled: 1
+    path: Assets/Scenes/L4Final.unity
+    guid: 1b5acea617df081469f0016849a52883
+  - enabled: 1
+    path: Assets/Scenes/EndingScene.unity
+    guid: ed29e556e4f7718428773a77a9d0dd0b
+  - enabled: 1
+    path: Assets/Scenes/GAMEOVER.unity
+    guid: f60e19d8b47edcf4fa5eda16e5acc2a8
+  - enabled: 1
+    path: Assets/Scenes/introCutScene.unity
+    guid: 901b1a503eede8444861a089fd4f8fcc
+  m_configObjects: {}

@@ -1,0 +1,68 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - TURN
+  - FALLDETECTOR
+  - PLAYER
+  - ENEMY
+  - HEART
+  - Wall
+  - Weapon
+  - Range
+  - Boss
+  - WEB
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - GROUND
+  - LADDER
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 4249739359
+    locked: 0
+  - name: Foreground
+    uniqueID: 211831665
+    locked: 0
+  - name: Ground
+    uniqueID: 2655439281
+    locked: 0
+  - name: Collectibles
+    uniqueID: 1467963229
+    locked: 0
+  - name: Characters
+    uniqueID: 1418869593
+    locked: 0
